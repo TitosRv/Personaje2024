@@ -14,6 +14,7 @@ Mi personaje al momento de que se acerca a 15 centimetros una persona comienza a
 
 ## Software a utilizar
 |Software|Versión|
+|--|--|--|
 
 ## Dibujo del personaje 
 Imagen hecha a mano o en algun software
